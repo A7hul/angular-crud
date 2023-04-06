@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "GOT",
+      "author": "George RR Martin",
+      "publisher": "DC Books",
+      "joner": "Mystery",
+      "date": "2023-04-11T18:30:00.000Z",
+      "pages": 1000,
+      "id": 1
+    },
+    {
+      "title": "some book",
+      "author": "athul",
+      "publisher": "dc book",
+      "joner": "Science Fiction",
+      "date": "2023-04-12T18:30:00.000Z",
+      "pages": 365312,
+      "id": 2
+    }
+  ]
+}

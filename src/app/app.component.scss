@@ -1,0 +1,19 @@
+
+.main-body {
+  padding-top: 25px;
+  margin: 0 auto;
+  max-width: 1500px;
+  mat-form-field {
+    width: 50%;
+  }
+}
+.row{
+  button{
+    float: right;
+    min-height: 56px
+  }
+}
+.action {
+  display: flex;
+  gap: 2px;
+}
